@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+}
+
+b{
+    font-size: 20px;
+    color: cyan;
+}
+.met{
+    font-size: 40px;
+    width: 1000px;
+}
